@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+      /* Created with https://www.css-gradient.com */
+      background: #9DC6F2;
+      background: -webkit-linear-gradient(top left, #9DC6F2, #6AB3F7);
+      background: -moz-linear-gradient(top left, #9DC6F2, #6AB3F7);
+      background: linear-gradient(to bottom right, #9DC6F2, #6AB3F7);
+      height: 100vh;
+}
